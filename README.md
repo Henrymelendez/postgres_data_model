@@ -1,6 +1,8 @@
 # Million Song Dataset
 ```by: Henry Melendez```
-A postgres sql database that organizes a snippet of the million song data base into a star schema to analyze the difference in paid and free users by gender. which provides information for posibble choices for marketing subscription based on gender.
+
+
+A postgres sql database that organizes a snippet of the million song data base into a star schema to analyze the difference in paid and free users by gender. which provides information for possible choices for marketing subscription based on gender.
 
 # Prerequisites
 ``` 
