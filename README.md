@@ -76,5 +76,5 @@ create_tables.py
 ```
 again and the use the note to run through the code line by line to isolate the error:
 ```
-etl.py
+etl.ipynb
 ```
